@@ -1,2 +1,1 @@
-# InfrastructureAs
-Professional InfrastructureAsCode infrastructure with InfrastructureAsCode-optimized intelligent-automation and enterprise infrastructureascode-optimization capabilities
+.
